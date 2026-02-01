@@ -77,7 +77,7 @@ I hope you enjoy it 😊
 |----------|----------|
 | ![](screenshots/Screenshot_20260201_182302.png) | ![](screenshots/Screenshot_20260201_182130.png) |
 
-![[screenshots/Screenshot_20260201_194743.png]]
+![Project Image 5](screenshots/Screenshot_20260201_194743.png)
 
 ---
 
