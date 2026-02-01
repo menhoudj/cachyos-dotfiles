@@ -12,7 +12,7 @@ I hope you enjoy it 😊
 - Obsidian
 - Fastfetch
 - Rofi
-- Neovim (nvim)
+- Neovim (nvim) + Lazyvim theme
 - Cava
 - TTY Clock
 - Spotify
@@ -33,6 +33,8 @@ I hope you enjoy it 😊
 - **Live wallpaper**:  
   https://drive.google.com/file/d/1H8gwkYX6Tf4rDtWlbYmjG-cupc9IM1VJ/view
 - Go to **Window Rules** and create a new rule with **No title bar**
+- **lazyvim**:
+- https://www.lazyvim.org/
 
 ---
 
